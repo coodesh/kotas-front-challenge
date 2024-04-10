@@ -4,9 +4,9 @@
 
 Este é um teste para que possamos ver as suas habilidades como Front Developer.
 
-Nesse teste você deverá desenvolver um aplicativo para listar palavras em inglês, utilizando como base a API [Free Dictionary API](https://dictionaryapi.dev/). O projeto a ser desenvolvido por você tem como objetivo exibir termos em inglês e gerenciar as palavras visualizadas, conforme indicado nos casos de uso que estão logo abaixo.
+Nesse teste você deverá desenvolver um projeto para listar pokémons, utilizando como base a API [https://pokeapi.co/](https://pokeapi.co/ "https://pokeapi.co/"). O projeto a ser desenvolvido por você tem como objetivo exibir uma listagem, buscar e mais detalhes conforme indicado nos casos de uso que estão logo abaixo.
 
-[SPOILER] As instruções de entrega e apresentação do challenge estão no final deste Readme (=
+[SPOILER] As instruções de entrega e apresentação do teste estão no final deste Readme (=
 
 ### Antes de começar
  
